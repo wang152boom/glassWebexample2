@@ -58,7 +58,7 @@ glassWebexample2/
 1. 克隆仓库到本地机器。
 2. 安装Jekyll（如果尚未安装）。
 3. 在项目根目录下运行`jekyll serve`以启动本地服务器。
-4. 访问`https://wang152boom.github.io/glassWebexample2/`查看网站。
+4. 4. 访问 [https://wang152boom.github.io/glassWebexample2/](https://wang152boom.github.io/glassWebexample2/) 查看网站。
 
 
 ### 作者信息
